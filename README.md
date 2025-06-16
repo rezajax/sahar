@@ -18,7 +18,7 @@ ssconf://ainita.s3.eu-north-1.amazonaws.com/AinitaServer-4.csv
 # V2ray
 
 ## Reza Server
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUSF9QWk5pcjltS3djdlpwSnZHWVBB@107.175.73.102:1080#%F0%9F%9A%80%20Marz%20%28reza%29%20%5BShadowsocks%20-%20tcp%5D
+
 
 ## Ircf Server (you might be update subscribe code)
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/splitted/mixed
