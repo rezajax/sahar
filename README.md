@@ -34,3 +34,14 @@ https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main
 - [armenian_vocabulary_part1.txt](./armenian_vocabulary_part1.txt)
 - [armenian_vocabulary_part2.txt](./armenian_vocabulary_part2.txt)
 راهنمای استفاده:
+
+
+## Armenian Markdown Versions
+
+- [armenian_a2_practice_test.md](./armenian_a2_practice_test.md)
+- [armenian_alphabet.md](./armenian_alphabet.md)
+- [armenian_comprehension_resources.md](./armenian_comprehension_resources.md)
+- [armenian_conversation_practice.md](./armenian_conversation_practice.md)
+- [armenian_grammar_basics.md](./armenian_grammar_basics.md)
+- [armenian_vocabulary_part1.md](./armenian_vocabulary_part1.md)
+- [armenian_vocabulary_part2.md](./armenian_vocabulary_part2.md)
